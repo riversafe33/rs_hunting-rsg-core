@@ -24,7 +24,3 @@ https://www.paypal.com/donate/?hosted_button_id=NX4ENSGYS6YJN
 
 
 <img width="1112" height="592" alt="image" src="https://github.com/user-attachments/assets/b87ad9c4-654c-4c67-95bd-f6938e25c8af" />
-
-<img width="642" height="413" alt="image" src="https://github.com/user-attachments/assets/608d98ff-6609-4049-81d4-6e61c49a548f" />
-
-<img width="654" height="358" alt="image" src="https://github.com/user-attachments/assets/268e3f25-e65b-4684-97a5-3e940dee75b2" />
