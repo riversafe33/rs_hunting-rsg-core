@@ -8,17 +8,13 @@ https://www.paypal.com/donate/?hosted_button_id=NX4ENSGYS6YJN
 # Hunting script made from vorp_hunting 
 
 
-1 - Now the butchers perform the meat-cutting scenario
+1 - Butchers perform the meat-cutting scenario
 
-2 - Now the money the butcher gives you is different depending on whether the animal is skinned or not
+2 -  The butcher gives you is different Money depending on whether the animal is skinned or not
 
-3 - Now instead of a price multiplier, you directly set the price for poor, good, or perfect pelts 
+3 - Directly set the price for poor, good, or perfect pelts 
 
-4 - Notifications now show the animal’s head icon and what you received after skinning it
-
-5 - All missing animals and missing pelt hashes have been added
-
-6 - The way items are defined in config.lua for what you receive when skinning an animal has been changed
+4 - Notifications show the animal’s head icon and what you received after skinning it
 
 
 # Original release: https://github.com/VORPCORE/vorp_hunting
