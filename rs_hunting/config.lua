@@ -1,6 +1,3 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------- VORP HUNTING SCRIPT ------------------------------------------------------------------------
-
 Config = {}
 
 Config.DevMode = false        -- DIABLE THIS IF YOUR SERVER IS LIVE
@@ -204,7 +201,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "aligatorpelt", label = "Alligator Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_alligator",
         action = "Skinned",
         type = "satchel_textures"
@@ -217,7 +213,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "aligatorpelt", label = "Alligator Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_alligator",
         action = "Skinned",
         type = "satchel_textures"
@@ -229,7 +224,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "armadillos", label = "Armadillo Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_armadillo",
         action = "Skinned",
         type = "satchel_textures"
@@ -241,7 +235,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "badgers", label = "Badger Pelt", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_badger",
         action = "Skinned",
         type = "satchel_textures"
@@ -254,7 +247,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "bbears", label = "Bear Pelt", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_bear",
         action = "Skinned",
         type = "satchel_textures"
@@ -267,7 +259,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "bearc", label = "Black Bear Pelt", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_bear_black",
         action = "Skinned",
         type = "satchel_textures"
@@ -280,7 +271,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "beawers", label = "Beaver Pelt", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_beaver",
         action = "Skinned",
         type = "satchel_textures"
@@ -293,7 +283,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "rams", label = "Ram Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_bighornram",
         action = "Skinned",
         type = "satchel_textures"
@@ -307,7 +296,6 @@ Config.SkinnableAnimals = {
             [4] = { item = "jabapelt", label = "Boar Pelt", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_boar",
         action = "Skinned",
         type = "satchel_textures"
@@ -321,7 +309,6 @@ Config.SkinnableAnimals = {
 			[4] = { item = "deerheart", label = "Deer Heart", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_buck",
         action = "Skinned",
         type = "satchel_textures" 
@@ -334,7 +321,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "bisons", label = "Bison Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture =  "animal_buffalo",
         action = "Skinned",
         type = "satchel_textures"
@@ -347,7 +333,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "bulls", label = "Bull Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_bull_devon",
         action = "Skinned",
         type = "satchel_textures"
@@ -360,7 +345,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "deerskin", label = "Deer Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_deer",
         action = "Skinned",
         type = "satchel_textures"
@@ -371,7 +355,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_chipmunk",
         action = "Skinned",
         type = "satchel_textures"
@@ -380,7 +363,6 @@ Config.SkinnableAnimals = {
         name = "bat",
         items = {},
         money = 0,
-        gold = 0,
         texture = "animal_bat",
         action = "Skinned",
         type = "satchel_textures"
@@ -392,7 +374,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "cougars", label = "Cougar Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_bobcat",
         action = "Skinned",
         type = "satchel_textures"
@@ -404,7 +385,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "cows", label = "Cow Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_cow",
         action = "Skinned",
         type = "satchel_textures"
@@ -416,7 +396,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "coyotes", label = "Coyote Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_coyote",
         action = "Skinned",
         type = "satchel_textures"
@@ -427,7 +406,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "provision_meat_crustacean", label = "Crab Meat", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_crab",
         action = "Skinned",
         type = "satchel_textures"
@@ -438,7 +416,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "provision_meat_crustacean", label = "Crab Meat", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_crawfish",
         action = "Skinned",
         type = "satchel_textures"
@@ -451,7 +428,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "elks", label = "Elk Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_elk",
         action = "Skinned",
         type = "satchel_textures"
@@ -463,7 +439,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "foxskin", label = "Fox Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_fox_red",
         action = "Skinned",
         type = "satchel_textures"
@@ -472,7 +447,6 @@ Config.SkinnableAnimals = {
         name = "Frog bull",
         items = {},
         money = 0,
-        gold = 0,
         texture = "animal_frogbull",
         action = "Skinned",
         type = "satchel_textures"
@@ -484,7 +458,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "lizards", label = "Lizard Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_gila_monster",
         action = "Skinned",
         type = "satchel_textures"
@@ -496,7 +469,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "goats", label = "Goat Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_goat",
         action = "Skinned",
         type = "satchel_textures"
@@ -508,7 +480,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "lizards", label = "Lizard Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_iguana",
         action = "Skinned",
         type = "satchel_textures"
@@ -520,7 +491,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "lizards", label = "Lizard Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_iguanadesert",
         action = "Skinned",
         type = "satchel_textures"
@@ -533,7 +503,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "pecaris", label = "Peccary Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_javelina",
         action = "Skinned",
         type = "satchel_textures"
@@ -546,7 +515,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "mooses", label = "Moose Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_moose",
         action = "Skinned",
         type = "satchel_textures"
@@ -558,7 +526,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "scentg", label = "Scent Gland", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_muskrat",
         action = "Skinned",
         type = "satchel_textures"
@@ -571,7 +538,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "oxs", label = "Ox Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_ox_angus",
         action = "Skinned",
         type = "satchel_textures"
@@ -583,7 +549,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "panthers", label = "Panther Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_panther",
         action = "Skinned",
         type = "satchel_textures"
@@ -595,7 +560,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "wool", label = "Wool", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_sheep",
         action = "Skinned",
         type = "satchel_textures"
@@ -608,7 +572,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "pigpelt", label = "Pig Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_pig_berkshire",
         action = "Skinned",
         type = "satchel_textures"
@@ -620,7 +583,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "opossums", label = "Opossum Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_opossum",
         action = "Skinned",
         type = "satchel_textures"
@@ -633,7 +595,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "prongs", label = "Pronghorn Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_pronghorn",
         action = "Skinned",
         type = "satchel_textures"
@@ -646,7 +607,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "rabbitpaw", label = "Rabbit Paw", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_rabbit",
         action = "Skinned",
         type = "satchel_textures"
@@ -658,7 +618,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "raccoons", label = "Raccoon Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_raccoon",
         action = "Skinned",
         type = "satchel_textures"
@@ -667,7 +626,6 @@ Config.SkinnableAnimals = {
         name = "Rat",
         items = {},
         money = 0,
-        gold = 0,
         texture = "animal_rat",
         action = "Skinned",
         type = "satchel_textures"
@@ -679,7 +637,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "resource_pelt_skunk", label = "Skunk Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_skunk",
         action = "Skinned",
         type = "satchel_textures"
@@ -690,7 +647,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_squirrel_grey",
         action = "Skinned",
         type = "satchel_textures"
@@ -699,7 +655,6 @@ Config.SkinnableAnimals = {
         name = "Toad",
         items = {},
         money = 0,
-        gold = 0,
         texture = "animal_toad",
         action = "Skinned",
         type = "satchel_textures"
@@ -711,7 +666,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "turtleshell", label = "Turtle Shell", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_snapping_turtle",
         action = "Skinned",
         type = "satchel_textures"
@@ -723,7 +677,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "turtleshell", label = "Turtle Shell", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_snapping_turtle",
         action = "Skinned",
         type = "satchel_textures"
@@ -736,7 +689,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "wolfpelt", label = "Wolf Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_wolf_gray",
         action = "Skinned",
         type = "satchel_textures"
@@ -749,7 +701,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "wolfpelt", label = "Wolf Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_wolf_gray",
         action = "Skinned",
         type = "satchel_textures"
@@ -762,7 +713,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "wolfpelt", label = "Wolf Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_wolf_gray",
         action = "Skinned",
         type = "satchel_textures"
@@ -778,7 +728,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_condor",
         action = "Skinned",
         type = "satchel_textures"
@@ -790,7 +739,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_cardinal",
         action = "Skinned",
         type = "satchel_textures"
@@ -802,7 +750,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_parakeet",
         action = "Skinned",
         type = "satchel_textures"
@@ -814,7 +761,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_cedarwaxwing",
         action = "Skinned",
         type = "satchel_textures"
@@ -826,7 +772,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_chicken_leghorn",
         action = "Skinned",
         type = "satchel_textures"
@@ -838,7 +783,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_bluejay",
         action = "Skinned",
         type = "satchel_textures"
@@ -850,7 +794,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_cormorant",
         action = "Skinned",
         type = "satchel_textures"
@@ -862,7 +805,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_crane",
         action = "Skinned",
         type = "satchel_textures"
@@ -874,7 +816,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_crow",
         action = "Skinned",
         type = "satchel_textures"
@@ -886,7 +827,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_duck_mallard",
         action = "Skinned",
         type = "satchel_textures"
@@ -898,7 +838,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_eagle_bald",
         action = "Skinned",
         type = "satchel_textures"
@@ -910,7 +849,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_egret_little",
         action = "Skinned",
         type = "satchel_textures"
@@ -922,7 +860,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_goosecanada",
         action = "Skinned",
         type = "satchel_textures"
@@ -934,7 +871,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_hawk_ferruginous",
         action = "Skinned",
         type = "satchel_textures"
@@ -946,7 +882,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_heron_greatblue",
         action = "Skinned",
         type = "satchel_textures"
@@ -958,7 +893,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_loon_common",
         action = "Skinned",
         type = "satchel_textures"
@@ -970,7 +904,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_oriole_hooded",
         action = "Skinned",
         type = "satchel_textures"
@@ -982,7 +915,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_owl_great",
         action = "Skinned",
         type = "satchel_textures"
@@ -994,7 +926,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_parrot_blueyellow",
         action = "Skinned",
         type = "satchel_textures"
@@ -1006,7 +937,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_pelican_white",
         action = "Skinned",
         type = "satchel_textures"
@@ -1018,7 +948,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_pheasant_ringneck",
         action = "Skinned",
         type = "satchel_textures"
@@ -1030,7 +959,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_pigeon",
         action = "Skinned",
         type = "satchel_textures"
@@ -1042,7 +970,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_prairie_chicken",
         action = "Skinned",
         type = "satchel_textures"
@@ -1054,7 +981,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_quail",
         action = "Skinned",
         type = "satchel_textures"
@@ -1066,7 +992,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_raven",
         action = "Skinned",
         type = "satchel_textures"
@@ -1078,7 +1003,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_red_footed_booby",
         action = "Skinned",
         type = "satchel_textures"
@@ -1090,7 +1014,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_robin",
         action = "Skinned",
         type = "satchel_textures"
@@ -1102,7 +1025,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_rooster_dominique",
         action = "Skinned",
         type = "satchel_textures"
@@ -1114,7 +1036,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_roseatespoonbill",
         action = "Skinned",
         type = "satchel_textures"
@@ -1126,7 +1047,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_seagull_herring",
         action = "Skinned",
         type = "satchel_textures"
@@ -1138,7 +1058,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_songbird",
         action = "Skinned",
         type = "satchel_textures"
@@ -1150,7 +1069,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_sparrow_golden",
         action = "Skinned",
         type = "satchel_textures"
@@ -1162,7 +1080,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_turkey_eastern",
         action = "Skinned",
         type = "satchel_textures"
@@ -1174,7 +1091,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_turkey_eastern",
         action = "Skinned",
         type = "satchel_textures"
@@ -1186,7 +1102,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_turkey_eastern",
         action = "Skinned",
         type = "satchel_textures"
@@ -1198,7 +1113,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_vulture_western",
         action = "Skinned",
         type = "satchel_textures"
@@ -1210,7 +1124,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_woodpecker_redbellied",
         action = "Skinned",
         type = "satchel_textures"
@@ -1222,7 +1135,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "feathers", label = "Feathers", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_cormorant",
         action = "Skinned",
         type = "satchel_textures"
@@ -1238,7 +1150,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "snake_poison", label = "Snake Venom", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakeblacktailrattle",
         action = "Skinned",
         type = "satchel_textures"
@@ -1251,7 +1162,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "snake_poison", label = "Snake Venom", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakeblacktailrattle",
         action = "Skinned",
         type = "satchel_textures"
@@ -1264,7 +1174,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "snake_poison", label = "Snake Venom", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakeferdelance",
         action = "Skinned",
         type = "satchel_textures"
@@ -1277,7 +1186,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "snake_poison", label = "Snake Venom", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakeredboa",
         action = "Skinned",
         type = "satchel_textures"
@@ -1290,7 +1198,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "snake_poison", label = "Snake Venom", quantity = 1},
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakewater",
         action = "Skinned",
         type = "satchel_textures"
@@ -1306,7 +1213,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "aligatorpelt", label = "Alligator Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_alligator_legendary_02",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1319,7 +1225,6 @@ Config.SkinnableAnimals = {
             [3] = { item = "aligatorpelt", label = "Alligator Pelt", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_alligator_legendary_01",
         action = "Skinned",
         type = "satchel_textures"
@@ -1331,7 +1236,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "porkfat", label = "Pork Fat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_boar",
         action = "Skinned",
         type = "satchel_textures"
@@ -1343,7 +1247,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "snake_poison", label = "Snake Venom", quantity = 5 },
         },
         money = 0,
-        gold = 0,
         texture = "animal_snakeblacktailrattle",
         action = "Skinned",
         type = "satchel_textures"
@@ -1354,7 +1257,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "beef", label = "Beef", quantity = 10 },                        
         },
         money = 0,
-        gold = 0,
         texture = "animal_legendary_buffalo_takanta",
         action = "Skinned",
         type = "satchel_textures"
@@ -1365,7 +1267,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_beaver_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1377,7 +1278,6 @@ Config.SkinnableAnimals = {
             [2] = { item = "porkfat", label = "Pork Fat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_boar_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1388,7 +1288,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "biggame", label = "Big Game Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_cougar_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1399,7 +1298,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_coyote_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1410,7 +1308,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "biggame", label = "Big Game Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_panther_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1421,7 +1318,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "biggame", label = "Big Game Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_wolf_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1432,7 +1328,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "biggame", label = "Big Game Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_bear_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1443,7 +1338,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "mutton", label = "Mutton", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_ram_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1454,7 +1348,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_buck_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1465,7 +1358,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "beef", label = "Beef", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_bison_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1476,7 +1368,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_elk_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1487,7 +1378,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "meat", label = "Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_fox_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1498,7 +1388,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "biggame", label = "Big Game Meat", quantity = 10 },
         },
         money = 0,
-        gold = 0,
         texture = "mp_animal_moose_legendary_01",
         action = "Skinned",
         type = "inventory_items_mp"
@@ -1513,7 +1402,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishbullheadcat_01_ms", label = "Large Bullhead Catfish", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_bullhead_catfish",
         action = "Picked",
         type = "inventory_items"
@@ -1524,7 +1412,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishchainpickerel_01_sm", label = "Chain Pickerel", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_chain_pickerel",
         action = "Picked",
         type = "inventory_items"
@@ -1535,7 +1422,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishchainpickerel_01_ms", label = "Large Chain Pickerel", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_chain_pickerel",
         action = "Picked",
         type = "inventory_items"
@@ -1546,7 +1432,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishlargemouthbass_01_ms", label = "Largemouth Bass", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_largemouth_bass",
         action = "Picked",
         type = "inventory_items"
@@ -1557,7 +1442,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishperch_01_sm", label = "Perch", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_perch",
         action = "Picked",
         type = "inventory_items"
@@ -1568,7 +1452,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishperch_01_ms", label = "Large Perch", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_perch",
         action = "Picked",
         type = "inventory_items"
@@ -1579,7 +1462,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishrainbowtrout_01_ms", label = "Steelhead Trout", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_steelhead_trout",
         action = "Picked",
         type = "inventory_items"
@@ -1590,7 +1472,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishredfinpickerel_01_sm", label = "Redfin Pickerel", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_redfin_pickerel",
         action = "Picked",
         type = "inventory_items"
@@ -1601,7 +1482,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishredfinpickerel_01_ms", label = "Large Redfin Pickerel", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_redfin_pickerel",
         action = "Picked",
         type = "inventory_items"
@@ -1612,7 +1492,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishrockbass_01_sm", label = "Rock Bass", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_rock_bass",
         action = "Picked",
         type = "inventory_items"
@@ -1623,7 +1502,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishrockbass_01_ms", label = "Large Rock Bass", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_rock_bass",
         action = "Picked",
         type = "inventory_items"
@@ -1634,7 +1512,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishsalmonsockeye_01_ms", label = "Salmon", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_sockeye_salmon",
         action = "Picked",
         type = "inventory_items"
@@ -1645,7 +1522,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishsmallmouthbass_01_ms", label = "Smallmouth Bass", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_smallmouth_bass",
         action = "Picked",
         type = "inventory_items"
@@ -1656,7 +1532,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishbluegil_01_ms", label = "Large Blue Gill", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_bluegill",
         action = "Picked",
         type = "inventory_items"
@@ -1667,7 +1542,6 @@ Config.SkinnableAnimals = {
             [1] = { item = "a_c_fishbullheadcat_01_sm", label = "Bullhead Catfish", quantity = 1 },
         },
         money = 0,
-        gold = 0,
         texture = "provision_fish_bullhead_catfish",
         action = "Picked",
         type = "inventory_items"
@@ -1695,7 +1569,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.75,
         peltMoneyGood    = 2.62,
         peltMoneyPerfect = 3.50,
-        gold = 0,
         poor    = 1796037447,
         good    = -476045512,
         perfect = 1795984405
@@ -1707,7 +1580,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -675142890
@@ -1719,7 +1591,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = 1760886130,
         good    = 143941906,
         perfect = -662726703
@@ -1731,7 +1602,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1743,7 +1613,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.05,
         peltMoneyGood    = 1.57,
         peltMoneyPerfect = 2.10,
-        gold = 0,
         poor    = 1248540072,
         good    = 2116849039,
         perfect = -1858513856
@@ -1755,7 +1624,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.57,
         peltMoneyGood    = 2.36,
         peltMoneyPerfect = 3.15,
-        gold = 0,
         poor    = 1603936352,
         good    = -868657362,
         perfect = -702790226
@@ -1767,7 +1635,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = -1730060063,
         good    = -591117838,
         perfect = -237756948
@@ -1779,7 +1646,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.25,
         peltMoneyGood    = 1.87,
         peltMoneyPerfect = 2.50,
-        gold = 0,
         poor    = 9293261,
         good    = -336086818,
         perfect = -53270317
@@ -1791,7 +1657,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.75,
         peltMoneyGood    = 2.62,
         peltMoneyPerfect = 3.50,
-        gold = 0,
         poor    = -662178186,
         good    = -1827027577,
         perfect = -1035515486
@@ -1803,7 +1668,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1815,7 +1679,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.05,
         peltMoneyGood    = 1.57,
         peltMoneyPerfect = 2.10,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1827,7 +1690,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.05,
         peltMoneyGood    = 1.57,
         peltMoneyPerfect = 2.10,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1839,7 +1701,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.95,
         peltMoneyGood    = 2.92,
         peltMoneyPerfect = 3.90,
-        gold = 0,
         poor    = 2053771712,
         good    = 1181652728,
         perfect = -1332163079
@@ -1851,7 +1712,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = 1647012424,
         good    = 238733925,
         perfect = 500722008
@@ -1863,7 +1723,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.57,
         peltMoneyGood    = 2.36,
         peltMoneyPerfect = 3.15,
-        gold = 0,
         poor    = 85441452,
         good    = 1145777975,
         perfect = 653400939
@@ -1875,7 +1734,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.07,
         peltMoneyGood    = 3.11,
         peltMoneyPerfect = 4.15,
-        gold = 0,
         poor    = 85441452,
         good    = 1145777975,
         perfect = 653400939
@@ -1887,7 +1745,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.40,
         peltMoneyGood    = 3.60,
         peltMoneyPerfect = 4.80,
-        gold = 0,
         poor    = 85441452,
         good    = 1145777975,
         perfect = 653400939
@@ -1899,7 +1756,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1911,7 +1767,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.87,
         peltMoneyGood    = 1.31,
         peltMoneyPerfect = 1.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1923,7 +1778,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.87,
         peltMoneyGood    = 1.31,
         peltMoneyPerfect = 1.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1935,7 +1789,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1947,7 +1800,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1959,7 +1811,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1971,7 +1822,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1983,7 +1833,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -1995,7 +1844,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2007,7 +1855,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2019,7 +1866,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2031,7 +1877,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2043,7 +1888,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2055,7 +1899,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2067,7 +1910,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.50,
         peltMoneyGood    = 0.75,
         peltMoneyPerfect = 1.00,
-        gold = 0,
         poor    = 1729948479,
         good    = -1317365569,
         perfect = 1466150167
@@ -2079,7 +1921,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.75,
         peltMoneyGood    = 1.12,
         peltMoneyPerfect = 1.50,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2091,7 +1932,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.97,
         peltMoneyGood    = 1.46,
         peltMoneyPerfect = 1.95,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2103,7 +1943,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2115,7 +1954,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.97,
         peltMoneyGood    = 1.46,
         peltMoneyPerfect = 1.95,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2127,7 +1965,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.87,
         peltMoneyGood    = 1.31,
         peltMoneyPerfect = 1.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2139,7 +1976,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2151,7 +1987,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2163,7 +1998,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.87,
         peltMoneyGood    = 2.81,
         peltMoneyPerfect = 3.75,
-        gold = 0,
         poor    = -983605026,
         good    = 554578289,
         perfect = -1544126829
@@ -2175,7 +2009,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.50,
         peltMoneyGood    = 0.75,
         peltMoneyPerfect = 1.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2187,7 +2020,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2199,7 +2031,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.87,
         peltMoneyGood    = 1.31,
         peltMoneyPerfect = 1.75,
-        gold = 0,
         poor    = -308965548,
         good    = -57190831,
         perfect = -1102272634
@@ -2211,7 +2042,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.62,
         peltMoneyGood    = 0.93,
         peltMoneyPerfect = 1.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2223,7 +2053,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.75,
         peltMoneyGood    = 1.12,
         peltMoneyPerfect = 1.50,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2235,7 +2064,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.25,
         peltMoneyGood    = 1.87,
         peltMoneyPerfect = 2.50,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2247,7 +2075,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = 1584468323,
         good    = -395646254,
         perfect = 1969175294
@@ -2259,7 +2086,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2271,7 +2097,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2283,7 +2108,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2295,7 +2119,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.12,
         peltMoneyGood    = 3.18,
         peltMoneyPerfect = 4.25,
-        gold = 0,
         poor    = 1914602340,
         good    = 459744337,
         perfect = -1791452194
@@ -2307,7 +2130,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = 334093551,
         good    = 120594075,
         perfect = -845037222
@@ -2319,7 +2141,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.62,
         peltMoneyGood    = 2.43,
         peltMoneyPerfect = 3.25,
-        gold = 0,
         poor    = -258096473,
         good    = 120939141,
         perfect = -794277189
@@ -2331,7 +2152,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2343,7 +2163,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2355,7 +2174,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.25,
         peltMoneyGood    = 1.87,
         peltMoneyPerfect = 2.50,
-        gold = 0,
         poor    = 699990316,
         good    = 171071442,
         perfect = -1648383828
@@ -2367,7 +2185,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2379,7 +2196,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.25,
         peltMoneyGood    = 1.87,
         peltMoneyPerfect = 2.50,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2391,7 +2207,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2403,7 +2218,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2415,7 +2229,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2427,7 +2240,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.00,
         peltMoneyGood    = 1.50,
         peltMoneyPerfect = 2.00,
-        gold = 0,
         poor    = -99092070,
         good    = -1379330323,
         perfect = 1963510418
@@ -2439,7 +2251,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2451,7 +2262,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.75,
         peltMoneyGood    = 2.62,
         peltMoneyPerfect = 3.50,
-        gold = 0,
         poor    = 1868576868,
         good    = 1636891382,
         perfect = -217731719
@@ -2463,7 +2273,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2475,7 +2284,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2487,7 +2295,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = 4623248928,
         good    = 1208128650,
         perfect = 659601266
@@ -2499,7 +2306,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = 180623689,
         good    = -802026654,
         perfect = -1625078531
@@ -2511,7 +2317,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.12,
         peltMoneyGood    = 1.68,
         peltMoneyPerfect = 2.25,
-        gold = 0,
         poor    = 180623689,
         good    = -802026654,
         perfect = -1625078531
@@ -2523,7 +2328,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = -1243878166,
         good    = -2102079544,
         perfect = -1475338121
@@ -2535,7 +2339,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -1924159110
@@ -2547,7 +2350,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = 1806153689,
         good    = -802026654,
         perfect = -1625078531
@@ -2559,7 +2361,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.37,
         peltMoneyGood    = 2.06,
         peltMoneyPerfect = 2.75,
-        gold = 0,
         poor    = -1569450319,
         good    = -2059726619,
         perfect = 854596618
@@ -2571,7 +2372,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.75,
         peltMoneyGood    = 2.62,
         peltMoneyPerfect = 3.50,
-        gold = 0,
         poor    = 1083865179,
         good    = 1490032862,
         perfect = 663376218
@@ -2583,7 +2383,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.75,
         peltMoneyGood    = 2.62,
         peltMoneyPerfect = 3.50,
-        gold = 0,
         poor    = 957520252,
         good    = 143941906,
         perfect = 1292673537
@@ -2595,7 +2394,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 1181154860
@@ -2607,7 +2405,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 1418435161
@@ -2619,7 +2416,6 @@ Config.Animals = {
         peltMoneyPoor    = 0.82,
         peltMoneyGood    = 1.23,
         peltMoneyPerfect = 1.65,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 1511236969
@@ -2631,7 +2427,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 1728819413
@@ -2643,7 +2438,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -420237085
@@ -2655,7 +2449,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -1548204069
@@ -2667,7 +2460,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -1262044528
@@ -2679,7 +2471,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 836208559
@@ -2691,7 +2482,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -251416414
@@ -2703,7 +2493,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -1087205695
@@ -2715,7 +2504,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -260181673
@@ -2727,7 +2515,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 397926876
@@ -2739,7 +2526,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = 739090883
@@ -2751,7 +2537,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = -1249752300
@@ -2765,7 +2550,6 @@ Config.Animals = {
         peltMoneyPoor    = 3.00,
         peltMoneyGood    = 4.50,
         peltMoneyPerfect = 6.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2777,7 +2561,6 @@ Config.Animals = {
         peltMoneyPoor    = 3.00,
         peltMoneyGood    = 4.50,
         peltMoneyPerfect = 6.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2789,7 +2572,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2801,7 +2583,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.50,
         peltMoneyGood    = 3.75,
         peltMoneyPerfect = 5.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2813,7 +2594,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.50,
         peltMoneyGood    = 3.75,
         peltMoneyPerfect = 5.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2825,7 +2605,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.50,
         peltMoneyGood    = 3.75,
         peltMoneyPerfect = 5.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2837,7 +2616,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.50,
         peltMoneyGood    = 3.75,
         peltMoneyPerfect = 5.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2849,7 +2627,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.50,
         peltMoneyGood    = 3.75,
         peltMoneyPerfect = 5.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2861,7 +2638,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2873,7 +2649,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2885,7 +2660,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2897,7 +2671,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2909,7 +2682,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2921,7 +2693,6 @@ Config.Animals = {
         peltMoneyPoor    = 1.50,
         peltMoneyGood    = 2.25,
         peltMoneyPerfect = 3.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2933,7 +2704,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
@@ -2945,7 +2715,6 @@ Config.Animals = {
         peltMoneyPoor    = 2.00,
         peltMoneyGood    = 3.00,
         peltMoneyPerfect = 4.00,
-        gold = 0,
         poor    = nil,
         good    = nil,
         perfect = nil
