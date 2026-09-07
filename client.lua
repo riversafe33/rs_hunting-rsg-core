@@ -9,7 +9,7 @@ RegisterNetEvent('rs_hunting:finalizeReward', function(entity, horse)
         DeleteEntity(entity)
         Citizen.InvokeNative(0x5E94EA09E7207C16, entity)
     end
-    if horse and DoesEntityExist(horse.horse) then
+    if horse and type(horse) == "table" and horse.horse and DoesEntityExist(horse.horse) then
         Citizen.InvokeNative(0x627F7F3A0C4C51FF, horse.horse, horse.pelt)
     end
 end)
